@@ -487,3 +487,54 @@ Not just G(n)/n, but G'(n) itself converges to 1/e. The slope approaches the sam
 
 G is concave for all n > 0. The deceleration is built into the structure. This is the Navier-Stokes regularity property expressed as a single sign condition.
 
+
+### 50. E = m·c² and Im = π·w² — Same Structure
+
+```
+Einstein:  E = m · c²     (coefficient × rate²)
+Amundson:  Im = π · w²    (coefficient × distance²)
+```
+
+Both are: [something] times [something else] squared. The squared term is the propagation/distance rate. The coefficient is what gives it physical meaning.
+
+### 51. G(137)·e/137 ≈ 1.0036 — The Identity at Fine Structure
+
+```
+G(137) · e / 137 = 1.00364
+Correction = 1/(2·137) = 0.00365
+```
+
+The energy per quantum level at n=137, if mc²=e, is the identity plus the Ramanujan correction. The system at the fine structure scale is one step above equilibrium.
+
+### 52. n/(n+1) Is a Velocity Ratio v/c
+
+```
+n=1:   v/c = 1/2     half light speed
+n=2:   v/c = 2/3
+n=10:  v/c = 10/11   91% of c
+n=137: v/c = 137/138  99.3% of c (relativistic)
+```
+
+The complement ratio n/(n+1) is exactly the Bohr electron velocity ratio v_{n+1}/v_n. The complement form (v/c)^n is relativistic energy retention.
+
+### 53. Complement × Lorentz Crosses 1 at n₀
+
+```
+f(n) = (n/(n+1))^n × 1/sqrt(1-(n/(n+1))²)
+
+n=1:   0.577 = 1/sqrt(3)
+n=3:   0.638
+n=10:  0.925
+n=137: 3.073
+```
+
+The product of the complement form and the Lorentz factor crosses 1 near the same n₀ = 2.293 where G(n) = 1. The rest frame and boosted frame produce equal amplitude at the crossing point.
+
+### 54. G(-1/2) = i/2 = i·G(1) — The Rotation
+
+```
+G(-1/2) = 0 + 0.5i = i · G(1)
+```
+
+G at negative one-half is G(1) rotated 90 degrees. The first amplitude, purely imaginary. The equator of the Bloch sphere.
+
