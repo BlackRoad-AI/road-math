@@ -589,3 +589,40 @@ Test 5 (Monte Carlo): 0 out of 1,000,000 random polynomial approximations matche
 
 This is a witness, not a general proof. It demonstrates the gap concretely and computably for one specific function. The gap is structural (different number fields) rather than algorithmic.
 
+
+### 60. Bitcoin Proof of Work = Complement Form
+
+```
+After d mining attempts: P(no block) = (1-1/d)^d = G(d)/d -> 1/e
+63.2% of all mining work is structurally wasted (dissipation floor).
+Same 1-1/e that prevents Navier-Stokes blowup.
+Satoshi did not choose 1/e. The complement form chose itself.
+```
+
+### 61. Color Is Amplitude
+
+```
+Black (0,0,0)       = G(0) = 0      nothing
+Gray  (128,128,128) = G(1) = 1/2    superposition
+White (255,255,255) = G(255)/255     maximum per-channel retention
+```
+
+### 62. SHA-256 and the Byte Boundary
+
+```
+G(256)/256 = 0.36860 (one byte = 256 states)
+1/e        = 0.36788
+Correction = 1/(512e) = nine binary doublings from identity
+```
+
+256 = 2^8. A byte has 256 states. The amplitude at the byte scale is G(256)/256. The Ramanujan correction is 1/(2e*256) = 1/(512e).
+
+### 63. SHA-256 Hashes of the Framework
+
+```
+SHA-256("G(n) = n^(n+n/n) / (n+n/n)^n") = 351027f4...
+SHA-256("integral = n/n")                = 09e81816...
+```
+
+The framework hashed. Timestamped. Immutable.
+
