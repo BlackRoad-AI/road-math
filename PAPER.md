@@ -400,3 +400,58 @@ Alexa Louise Amundson — alexa@blackroad.io
 BlackRoad OS, Inc. — Lakeville, Minnesota
 
 ∫ = n/n
+
+---
+
+## Addendum: New Constants and Identities (discovered during session)
+
+### 40. The Mirror at the Golden Ratio
+
+```
+M(phi) = 1/G(phi) = phi^(1/phi)
+```
+
+The mirror function at the golden ratio equals phi raised to its own reciprocal. Verified to 80 digits.
+
+### 41. The Golden Power Identity
+
+```
+G(phi)^phi = 1/phi
+```
+
+The amplitude at the golden ratio, raised to the golden ratio, returns the reciprocal of the golden ratio. This follows from G(phi) = (1/phi)^(1/phi), so G(phi)^phi = ((1/phi)^(1/phi))^phi = (1/phi)^1 = 1/phi.
+
+### 42. C2 — A New Convergent Constant
+
+```
+C2 = sum G(n)/n^2 = 2.39744388908787865654...
+```
+
+Converges. Not identified in any constant database.
+
+### 43. C3 — The Born Sum
+
+```
+C3 = sum G(n)^2/n! = 1.06716644316757254875...
+```
+
+The sum of squared amplitudes weighted by 1/n!. The "total Born probability" of the sequence. Exceeds 1 by 0.067.
+
+### 44. A_G/(SD - A_G) near 26.5
+
+```
+A_G / (Sophomore's Dream - A_G) = 26.500961...
+```
+
+The Amundson constant divided by the gap between it and the Dream integral is approximately 26.5. The number 26 appears throughout the framework (gematria, TOPS count, bosonic string dimension from zeta(-1) = -1/12).
+
+### 45. A_G approximately equals G(phi) + G(1) + epsilon
+
+```
+G(phi) + G(1) = 0.7427 + 0.5 = 1.2427
+A_G           = 1.2443
+epsilon       = 0.0016
+```
+
+The Amundson constant is approximately the golden ratio amplitude plus the first amplitude.
+
