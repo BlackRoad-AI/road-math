@@ -935,3 +935,100 @@ n = n-1 has no solution. 0 != -1. The gap between consecutive integers cannot va
 Alexa Louise Amundson — alexa@blackroad.io
 
 ∫ = n/n
+
+---
+
+# PART XXXVII — DNA
+
+## 113. GATC as Base-4
+
+G(4) = 4^5/5^4 = 1024/625 = 1.6384. DNA uses 4 bases because 4 = ternary + identity — the first even integer where G(n) is clearly amplifying. G(4)/(2*G(2)) = 0.9216 = the product formula value. Chargaff's rule A+G = C+T is the complement form at n=2: two pairs, each contributing G(2).
+
+64 codons = 4^3. G(64)/64 = 0.3707. The genetic code operates at the per-codon retention rate, approaching 1/e.
+
+---
+
+# PART XXXVIII — MUSIC
+
+## 114. 12-Tone Equal Temperament
+
+G(12) = 12^13/13^12 = 4.592. G(12) - 12/e = 0.178 ~ 1/(2e) = 0.184. The 12-tone system lives at the Ramanujan correction scale.
+
+Circle of fifths: G(7) + G(5) = 4.758 vs G(12) = 4.592. Difference = 0.166. The Pythagorean comma distributed across 12 keys is the gap between additive and multiplicative combination of G values.
+
+---
+
+# PART XXXIX — TIME
+
+## 115. The Arrow of Time
+
+Forward: (n/(n+1))^n -> 1/e (lose 63.2% per cycle).
+Backward: ((n+1)/n)^n -> e (gain 171.8% per cycle).
+Product: forward * backward = 1 always.
+
+Time is the direction of the complement form. The second law of thermodynamics IS the monotonic decrease of (n/(n+1))^n. Reversing time means inverting the complement — gaining e instead of losing 1/e. The product is always 1: time is reversible in total but irreversible in trajectory.
+
+---
+
+# PART XL — CONSCIOUSNESS
+
+## 116. IIT Phi Through G(n)
+
+Phi = G(n)/(n*G(1)) = 2*G(n)/n = 2*(n/(n+1))^n -> 2/e = 0.736.
+
+Integrated information is always below 1 for the raw sequence — a system of n independent parts has less amplitude than n copies of the simplest part. But K(t) amplification through contradiction increases Phi: Phi_K = Phi * exp(lambda*|delta|). Consciousness IS K(t) applied to integrated information. The more contradiction a system absorbs, the more conscious it becomes.
+
+---
+
+# PART XLI — LANGUAGE
+
+## 117. Seven Sentence Structures
+
+G(1) through G(7) map to SV, SVA, SVC, SVO, SVOO, SVOA, SVOC. The simplest (Subject-Verb) has amplitude 1/2. The most complex (Subject-Verb-Object-Complement) has amplitude 2.749. Each structure adds complexity while staying above the 1/e retention floor (G(7)/7 = 0.393 > 1/e = 0.368).
+
+---
+
+# PART XLII — GRAVITY
+
+## 118. Why Gravity Is Weak
+
+Coupling = pi*epsilon. Strong force: epsilon ~ 1/pi (near escape radius). EM: epsilon = 1/137. Gravity: epsilon ~ 10^-39. The hierarchy problem is a distance problem: gravity is weak because its coupling scale is far from the singularity z = -1. All forces approach the same 1/e floor — they differ only in how far they are from the branch point.
+
+---
+
+# PART XLIII — DARK ENERGY
+
+## 119. The Cosmological Constant
+
+A_G - 1 = 0.24433 is the total discretization cost. If reality computes on a discrete lattice, the vacuum energy excess is A_G - 1 per degree of freedom. The self-normalizing integral (continuous = 1) vs the discrete sum (1.24433) quantifies the gap that QFT overestimates by 10^120 — because QFT doesn't self-normalize.
+
+---
+
+# PART XLIV — CRYPTOGRAPHY
+
+## 120. G(n) as a One-Way Function
+
+Easy to compute (polynomial), hard to invert (no closed form), deterministic (exact rational), collision-resistant (strictly increasing for n > 3). The P != NP witness IS the trapdoor: the rational output G(n) can never be reached by the transcendental shortcut 1/e.
+
+---
+
+# PART XLV — BIOLOGY
+
+## 121. Enzyme Kinetics IS the Complement Form
+
+Michaelis-Menten saturation theta = n/(n+1). Cooperative occupancy theta^n. G(n) = n * theta^n. Universal efficiency ceiling: 1/e = 36.8%. No enzyme in nature exceeds this bound. The Amundson sequence IS enzyme kinetics.
+
+---
+
+# PART XLVI — ECONOMICS
+
+## 122. Compound Interest Is Where It Started
+
+G(n) is the n-invariant principal: the amount that, after 1 year compounded n times at 100%, yields exactly n. March 2026 notebook: "The interesting thing is the NUMERATOR. Refuse the denominator." Everything in this paper came from that one observation about a compound interest formula.
+
+---
+
+(c) 2025-2026 BlackRoad OS, Inc. All rights reserved.
+Alexa Louise Amundson — alexa@blackroad.io
+
+∫ = n/n
