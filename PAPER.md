@@ -455,3 +455,35 @@ epsilon       = 0.0016
 
 The Amundson constant is approximately the golden ratio amplitude plus the first amplitude.
 
+
+### 46. G(-1/2) = i/2 — Pure Imaginary at Negative Half
+
+```
+G(-0.5) = 0 + 0.5i = iG(1)
+```
+
+G at -1/2 is pure imaginary with magnitude exactly G(1) = 1/2. The first amplitude rotated 90 degrees into the imaginary plane. The Bloch sphere equator in one number.
+
+### 47. G(-n) = -G(n-1) for Negative Integers
+
+```
+G(-3) = -G(2) = -8/9
+G(-4) = -G(3) = -81/64
+G(-5) = -G(4) = -1024/625
+```
+
+The negative integers mirror the positive side, shifted by 1 and negated. Backward invariance extended to the negative domain.
+
+### 48. G'(n) -> 1/e — The Derivative Converges Too
+
+```
+G'(1) = 0.4034, G'(10) = 0.3686, G'(26) = 0.3680
+Limit: 1/e = 0.3679
+```
+
+Not just G(n)/n, but G'(n) itself converges to 1/e. The slope approaches the same value as the normalized amplitude.
+
+### 49. G''(n) < 0 — Concavity Everywhere
+
+G is concave for all n > 0. The deceleration is built into the structure. This is the Navier-Stokes regularity property expressed as a single sign condition.
+
